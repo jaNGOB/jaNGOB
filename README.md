@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m interested in algorithmic trading, data analytics, and market microstructure.
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/jan-gobeli/)
-  - jan.gobeli@protonmail.com
+  - [E-Mail](jan.gobeli@protonmail.com)
