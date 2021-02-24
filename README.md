@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying quantitative finance at Università della Svizzera italiana .
+- 🌱 I’m interested in algorithmic trading, data analytics, and market microstructure.
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/jan-gobeli/)
+  - jan.gobeli@protonmail.com
