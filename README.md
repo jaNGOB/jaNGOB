@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m the Data Intelligence Lead for Keyrock.
+- 🔭 I’m a Quantitative Researcher at Keyrock.
 - 🌱 I’m interested in algorithmic trading, data analytics, and market microstructure.
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/jan-gobeli/)
